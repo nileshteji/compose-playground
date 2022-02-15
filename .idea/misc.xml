@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1641117450676.xml" value="0.33065878378378377" />
+        <entry key="../../../../layout/compose-model-1641117578512.xml" value="0.33065878378378377" />
+        <entry key="../../../../layout/compose-model-1641118501255.xml" value="0.33065878378378377" />
+        <entry key="../../../../layout/compose-model-1641127875315.xml" value="0.19776310760656446" />
+        <entry key="../../../../layout/compose-model-1642704332707.xml" value="0.35185185185185186" />
+        <entry key="../../../../layout/compose-model-1642704415271.xml" value="0.36203703703703705" />
+        <entry key="../../../../layout/compose-model-1643557311869.xml" value="0.35185185185185186" />
+        <entry key="../../../../layout/compose-model-1643557841113.xml" value="0.20185185185185187" />
+        <entry key="../../../../layout/compose-model-1643563761581.xml" value="0.20185185185185187" />
+        <entry key="../../../../layout/compose-model-1644041916740.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1644042423503.xml" value="0.35185185185185186" />
+        <entry key="../../../../layout/compose-model-1644743441419.xml" value="0.35185185185185186" />
+        <entry key="../../../../layout/compose-model-1644744830416.xml" value="1.5" />
+        <entry key="../../../../layout/compose-model-1644950225963.xml" value="1.0" />
+        <entry key="../../.gradle/caches/transforms-3/433791d34ef9aa5ac82975546a00f470/transformed/jetified-appcompat-resources-1.2.0/res/drawable/abc_vector_test.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2845" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
